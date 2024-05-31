@@ -1,0 +1,29 @@
+.img {
+  height: 230px;
+}
+.icon {
+  width: 50px;
+}
+.background {
+  background-color: #ffc107;
+}
+.card-m {
+  margin-top: auto;
+  height: 80px;
+  background-color: rgba(105, 105, 105, 0.758);
+}
+.card-img {
+  height: fit-content;
+  height: 195px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #ffc107;
+  border-radius: 10px;
+}
+.logo {
+  width: 83px;
+}
+.navicon {
+  width: 36px;
+}
